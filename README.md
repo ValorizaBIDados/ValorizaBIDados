@@ -171,6 +171,20 @@ graph TD;
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valorizaimobiliaria/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valorizaimobiliaria/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/valorizaimobiliaria/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+  
+  <p style="font-size: 1.5rem; font-weight: bold; color: #0077B6; margin-top: 1rem;">
+    Juntos somamos, em sinergia conquistamos
+  </p>
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=100&section=footer&text=Valoriza+Imobiliária&fontColor=ffffff&fontSize=30" width="100%"/>
 </p>
