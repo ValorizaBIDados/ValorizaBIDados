@@ -181,7 +181,7 @@ graph TD;
   <img alt="Valoriza Snake Animation" src="https://raw.githubusercontent.com/valoriza-imobiliaria/snk/output/github-contribution-grid-snake.svg?color_snake=#0077B6&color_dots=#d6f3ff,#90caf9,#64b5f6,#2196f3,#1565c0" style="background: linear-gradient(to right, #0077B6, #003f88); border-radius: 10px; padding: 10px; width: 100%; max-width: 800px;" />
 </picture>
 
-```html
+```
 <!-- Alternative embed code with GIF version -->
 <img src="https://raw.githubusercontent.com/valoriza-imobiliaria/snk/output/github-contribution-grid-snake.gif?color_snake=#0077B6&color_dots=#003f88,#0056b3,#0077B6,#0088cc,#00a0e9&text_1=Juntos%20somamos&text_2=em%20sinergia%20conquistamos&text_3=Valoriza%20Imobiliaria" alt="Valoriza Snake Animation" style="background: #003f88; border-radius: 10px; padding: 10px; width: 100%; max-width: 800px;" />
 
