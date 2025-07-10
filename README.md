@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Valoriza+Imobiliária&fontColor=000000&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Valoriza+Imobiliária&fontColor=fffffff&fontSize=50&animation=fadeIn" width="100%"/>
 </p>
 
 <div align="center" style="background-color: #0077B6; padding: 2rem; border-radius: 15px; margin: 2rem 0; color: white;">
@@ -124,7 +124,7 @@ graph TD;
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=100&section=footer&text=Valoriza+Imobiliária&fontColor=000000&fontSize=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=100&section=footer&text=Valoriza+Imobiliária&fontColor=ffffff&fontSize=30" width="100%"/>
 </p>
 
 <p align="center">
