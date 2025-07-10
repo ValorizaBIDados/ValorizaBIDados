@@ -107,21 +107,6 @@ flowchart LR
 
 ---
 
-## 👨‍💻 Sobre o Desenvolvedor
-
-<div align="center" style="background-color: #0077B6; padding: 2rem; border-radius: 15px; color: white; margin: 2rem 0;">
-  <img src="https://avatars.githubusercontent.com/kaymmi" width="150" style="border-radius: 50%; border: 3px solid #fff;">
-  <h3>Kaymmi Antunes</h3>
-  <p>Business Intelligence | Cientista de Dados | Desenvolvedor Python</p>
-
-🔭 Desenvolvendo soluções para inteligência imobiliária
-🌱 Explorando Dados, IA e automações no setor
-📬 Contato: [valorizabidados@outlook.com](mailto:valorizabidados@outlook.com)
-
-</div>
-
----
-
 ## 📌 Diagrama Profissional
 
 ```mermaid
@@ -138,6 +123,19 @@ graph TD;
     style E fill:#0077B6,stroke:#fff
     style F fill:#0077B6,stroke:#fff
 ```
+
+## 👨‍💻 Sobre o Desenvolvedor
+
+<div align="center" style="background-color: #0077B6; padding: 2rem; border-radius: 15px; color: white; margin: 2rem 0;">
+  <img src="https://avatars.githubusercontent.com/kaymmi" width="150" style="border-radius: 50%; border: 3px solid #fff;">
+  <h3>Kaymmi Antunes</h3>
+  <p>Business Intelligence | Cientista de Dados | Desenvolvedor Python</p>
+
+🔭 Desenvolvendo soluções para inteligência imobiliária
+🌱 Explorando Dados, IA e automações no setor
+📬 Contato: [valorizabidados@outlook.com](mailto:valorizabidados@outlook.com)
+
+</div>
 
 ---
 
@@ -157,5 +155,3 @@ graph TD;
   </a>
 </p>
 ```
-
-
