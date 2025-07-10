@@ -167,6 +167,13 @@ graph TD;
 </div>
 
 <div align="center"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </div> 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/valoriza-imobiliaria/snk/output/github-snake.gif" alt="Juntos somamos, em sinergia conquistamos - Valoriza Imobiliária" />
+</p>
+
+
 ---
 
 <p align="center">
