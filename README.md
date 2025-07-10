@@ -162,28 +162,7 @@ graph TD;
 
 </div>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./valorizagrid.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./valorizagrid.png" />
-  <img alt="Contribuições VALORIZA" src="./valorizagrid.png" />
-</picture>
-
-----------------
-
-<div align="center">
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valoriza-imobiliaria/snk/output/github-contribution-grid-snake-dark.svg?color_snake=#0077B6&color_dots=#003f88,#0056b3,#0077B6,#0088cc,#00a0e9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valoriza-imobiliaria/snk/output/github-contribution-grid-snake.svg?color_snake=#0077B6&color_dots=#d6f3ff,#90caf9,#64b5f6,#2196f3,#1565c0" />
-  <img alt="Valoriza Snake Animation" src="https://raw.githubusercontent.com/valoriza-imobiliaria/snk/output/github-contribution-grid-snake.svg?color_snake=#0077B6&color_dots=#d6f3ff,#90caf9,#64b5f6,#2196f3,#1565c0" style="background: linear-gradient(to right, #0077B6, #003f88); border-radius: 10px; padding: 10px; width: 100%; max-width: 800px;" />
-</picture>
-
-
-<!-- Alternative embed code with GIF version -->
-<img src="https://raw.githubusercontent.com/valoriza-imobiliaria/snk/output/github-contribution-grid-snake.gif?color_snake=#0077B6&color_dots=#003f88,#0056b3,#0077B6,#0088cc,#00a0e9&text_1=Juntos%20somamos&text_2=em%20sinergia%20conquistamos&text_3=Valoriza%20Imobiliaria" alt="Valoriza Snake Animation" style="background: #003f88; border-radius: 10px; padding: 10px; width: 100%; max-width: 800px;" />
+<div align="center"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  </div>
 
 </div>
 
