@@ -146,6 +146,7 @@ graph TD;
 
 🔭 Desenvolvendo soluções para inteligência imobiliária
 🌱 Explorando Dados, IA e automações no setor
+
 📬 Contato: [valorizabidados@outlook.com](mailto:valorizabidados@outlook.com)
 
 ---
@@ -172,11 +173,8 @@ graph TD;
  align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.gif?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA" alt="Valoriza Snake GIF" width="100%" style="max-width: 800px; border-radius: 10px;" />
 </div>
- ```
 
-
-
-
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=100&section=footer&text=Valoriza+Imobiliária&fontColor=ffffff&fontSize=30" width="100%"/>
 </p>
