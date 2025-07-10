@@ -167,6 +167,23 @@ graph TD;
 [![Valoriza Snake Animation](https://github.com/valoriza-imobiliaria/snk/raw/output/github-contribution-grid-snake.gif?color_snake=%230077B6&color_dots=%23003f88%2C%230056b3%2C%230077B6%2C%230088cc%2C%2300a0e9&text=Juntos+somamos%2C+em+sinergia+conquistamos+Valoriza+Imobili%C3%A1ria)](https://github.com/valoriza-imobiliaria/snk)
 
 </div>
+
+--- test
+## 🐍 Snake Game de Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.gif" alt="Snake Game animado com lema da empresa"/>
+</p>
+
+> 🎯 A jornada diária da nossa stack refletida em forma de jogo.
+> 🧩 Cada passo representa um projeto, uma entrega, uma solução.
+
 ---
 
 <p align="center">
