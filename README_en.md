@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Valoriza+Real+Estate+Advisory&fontColor=ffffff&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Valoriza+Real+Estate&fontColor=ffffff&fontSize=50&animation=fadeIn" width="100%"/>
 </p>
 
 <div align="center" style="background-color: #0077B6; padding: 2rem; border-radius: 15px; margin: 2rem 0; color: white;">
