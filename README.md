@@ -152,42 +152,23 @@ graph TD;
 
 ## 🐍 Snake Game de Contribuições
 
-<div align="center">
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
-🎯 A jornada diária da nossa stack refletida em forma de jogo.
-
-📈 Cada passo representa um projeto, uma entrega, uma solução.
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="background: linear-gradient(to right, #0077B6, #003f88); border-radius: 10px; padding: 10px;" />
-
-</div>
-
-<div align="center" style="background: linear-gradient(to right, #0077B6, #003f88); border-radius: 10px; padding: 20px;">
-
-[![Valoriza Snake Animation](https://github.com/valoriza-imobiliaria/snk/raw/output/github-contribution-grid-snake.gif?color_snake=%230077B6&color_dots=%23003f88%2C%230056b3%2C%230077B6%2C%230088cc%2C%2300a0e9&text=Juntos+somamos%2C+em+sinergia+conquistamos+Valoriza+Imobili%C3%A1ria)](https://github.com/valoriza-imobiliaria/snk)
-
-</div>
--------------------
-## 🐍 Snake Game de Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" />
-  <img alt="Snake Game animado (SVG)" src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA">
+  <img alt="Valoriza Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA" width="100%" style="max-width: 800px;">
 </picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.gif" alt="Snake Game animado (GIF)" />
-</p>
+<p style="color: #58a6ff; font-size: 1.1em; margin-top: 15px;"> 🎯 A jornada diária da nossa stack refletida em forma de jogo<br/> 💡 Cada passo representa um projeto, uma entrega, uma solução </p></div>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.gif?color_snake=%25230077B6&color_dots=%2523001C55%252C%2523003f88%252C%25230056b3%252C%25230077B6%252C%252300a0e9&text=JUNTOS+SOMAMOS%250AEM+SINERGIA+CONQUISTAMOS%250AVALORIZA+IMOBILIARIA
 
-<p align="center">
-  🎯 A jornada diária da nossa stack refletida em forma de jogo.<br/>
-  💡 Cada passo representa um projeto, uma entrega, uma solução.
-</p>
+</div> ```
 
 
 
----------------------
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=100&section=footer&text=Valoriza+Imobiliária&fontColor=ffffff&fontSize=30" width="100%"/>
 </p>
