@@ -163,6 +163,13 @@ graph TD;
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./valorizagrid.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./valorizagrid.png" />
+  <img alt="Contribuições VALORIZA" src="./valorizagrid.png" />
+</picture>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=100&section=footer&text=Valoriza+Imobiliária&fontColor=ffffff&fontSize=30" width="100%"/>
