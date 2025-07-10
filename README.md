@@ -148,13 +148,15 @@ graph TD;
 🌱 Explorando Dados, IA e automações no setor
 📬 Contato: [valorizabidados@outlook.com](mailto:valorizabidados@outlook.com)
 
+---
+
 ## 🐍 Contribuições Visuais
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kaymmi/kaymmi/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaymmi/kaymmi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaymmi/kaymmi/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/kaymmi/kaymmi/output/github-snake.svg" />
+</picture>
 
 ---
 
