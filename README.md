@@ -5,7 +5,7 @@
 
 <div align="center" style="background-color: #0077B6; padding: 2rem; border-radius: 15px; margin: 2rem 0; color: white;">
   <h1>🌟 Bem-vindo ao Nosso Ecossistema Digital</h1>
-  <p>Somos a ponte entre tecnologia e sonhos imobiliários. Cada linha de código aqui escrita é um passo para transformar a jornada imobiliária em uma experiência memorável.</p>
+  <p>Somos a ponte entre tecnologia e objetivos imobiliários. Cada linha de código aqui escrita é um passo para transformar a jornada imobiliária em uma experiência memorável.</p>
 </div>
 
 ```mermaid
@@ -59,21 +59,39 @@ flowchart LR
 
 ---
 
-## 🏆 Estatísticas Técnicas
+## 📊 Panorama Tecnológico da Valoriza
 
-<div align="center" style="background-color: #0077B6; padding: 2rem; border-radius: 15px; color: white; margin: 2rem 0;">
+<div align="center" style="background: linear-gradient(90deg, #3a7bd5 0%, #0077B6 100%); padding: 2rem; border-radius: 15px; color: white; margin: 2rem 0; font-size: 1.1rem;">
 
-🛑 Os repositórios da Valoriza são privados, por isso estatísticas públicas como linguagens mais usadas não aparecem corretamente.
+📌 Os repositórios da Valoriza são privados, por isso estatísticas automáticas de linguagens no GitHub não são exibidas corretamente.
 
-> Desenvolvemos majoritariamente em **Python e SQL (86%)**, com projetos complementares em **C++** e **JavaScript**.
+🔍 No entanto, nossa stack é clara, ativa e consolidada em múltiplos projetos:
 
-[![Contribuições](https://streak-stats.demolab.com?user=kaymmi\&theme=blueberry\&hide_border=true\&date_format=j%20M%5B%20Y%5D\&background=45%2C0077B6%2C0056b3)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_&_SQL-Stack%20Principal-0077B6?style=for-the-badge&logo=python&logoColor=white" alt="Python e SQL" 
+ />
+  <img src="https://img.shields.io/badge/C++_Integrado-Lógicas_Rápidas-0056b3?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-Front_&_Tracking-003d82?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+</p>
 
-[![Troféus](https://github-profile-trophy.vercel.app/?username=kaymmi\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=15\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://img.shields.io/badge/Scraping_Avançado-OLX,_Zap,_Kenlo-0077B6?style=for-the-badge&logo=selenium&logoColor=white" alt="Scraping Avançado" />
+  <img src="https://img.shields.io/badge/ETL_Python-Automações_&_Tratamento-0056b3?style=for-the-badge&logo=python&logoColor=white" alt="ETL Python" />
+  <img src="https://img.shields.io/badge/Power%20BI-Visualização%20Executiva-0077B6?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-Dashboards%20Web-0056b3?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-Eventos_Personalizados-0077B6?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="GTM" />
+  <img src="https://img.shields.io/badge/Google_Analytics_4-Rastreamento_Inteligente-0056b3?style=for-the-badge&logo=google-analytics&logoColor=white" alt="GA4" />
+  <img src="https://img.shields.io/badge/PowerShell-Agendamentos_e_Backups-003d82?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+🔧 Stack voltada para automações confiáveis, análises comerciais e inteligência de mercado.  
+📊 Dados são tratados, validados, consolidados e versionados automaticamente.
 
 </div>
 
----
 
 ## 🚀 Projetos em Destaque
 
@@ -94,10 +112,10 @@ flowchart LR
 <div align="center" style="background-color: #0077B6; padding: 2rem; border-radius: 15px; color: white; margin: 2rem 0;">
   <img src="https://avatars.githubusercontent.com/kaymmi" width="150" style="border-radius: 50%; border: 3px solid #fff;">
   <h3>Kaymmi Antunes</h3>
-  <p>Engenheiro de Dados | Cientista de Dados | Desenvolvedor Python</p>
+  <p>Business Intelligence | Cientista de Dados | Desenvolvedor Python</p>
 
 🔭 Desenvolvendo soluções para inteligência imobiliária
-🌱 Explorando machine learning e automações no setor
+🌱 Explorando Dados, IA e automações no setor
 📬 Contato: [valorizabidados@outlook.com](mailto:valorizabidados@outlook.com)
 
 </div>
