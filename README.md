@@ -67,25 +67,38 @@ flowchart LR
 
 🔍 No entanto, nossa stack é clara, ativa e consolidada em múltiplos projetos:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python_&_SQL-Stack%20Principal-0077B6?style=for-the-badge&logo=python&logoColor=white" alt="Python e SQL" 
- />
-  <img src="https://img.shields.io/badge/C++_Integrado-Lógicas_Rápidas-0056b3?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-Front_&_Tracking-003d82?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scraping_Avançado-OLX,_Zap,_Kenlo-0077B6?style=for-the-badge&logo=selenium&logoColor=white" alt="Scraping Avançado" />
-  <img src="https://img.shields.io/badge/ETL_Python-Automações_&_Tratamento-0056b3?style=for-the-badge&logo=python&logoColor=white" alt="ETL Python" />
-  <img src="https://img.shields.io/badge/Power%20BI-Visualização%20Executiva-0077B6?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-Dashboards%20Web-0056b3?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Tag_Manager-Eventos_Personalizados-0077B6?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="GTM" />
-  <img src="https://img.shields.io/badge/Google_Analytics_4-Rastreamento_Inteligente-0056b3?style=for-the-badge&logo=google-analytics&logoColor=white" alt="GA4" />
-  <img src="https://img.shields.io/badge/PowerShell-Agendamentos_e_Backups-003d82?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
+<table>
+  <tr>
+    <th>🧠 Linguagens Base</th>
+    <th>⚙️ Processos Técnicos</th>
+    <th>📊 Visualização e BI</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python_&_SQL-Stack%20Principal-0077B6?style=for-the-badge&logo=python&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/C++-Lógicas%20Rápidas-0056b3?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/JavaScript-Front_&_Tracking-003d82?style=for-the-badge&logo=javascript&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Scraping_Avançado-OLX,_Zap,_Kenlo-0077B6?style=for-the-badge&logo=selenium&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/ETL_Python-Automações_&_Tratamento-0056b3?style=for-the-badge&logo=python&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/PowerShell-Agendamentos_e_Backups-003d82?style=for-the-badge&logo=powershell&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power%20BI-Executivo-0077B6?style=for-the-badge&logo=powerbi&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Looker%20Studio-Web_Reports-0056b3?style=for-the-badge&logo=looker&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/GA4-Analytics_Inteligente-003d82?style=for-the-badge&logo=google-analytics&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/GTM-Eventos_Personalizados-0077B6?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 🔧 Stack voltada para automações confiáveis, análises comerciais e inteligência de mercado.  
 📊 Dados são tratados, validados, consolidados e versionados automaticamente.
