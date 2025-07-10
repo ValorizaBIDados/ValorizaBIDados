@@ -162,13 +162,11 @@ graph TD;
 
 </div>
 
-<div align="center"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  </div>
+<div align="center" style="background: linear-gradient(to right, #0077B6, #003f88); border-radius: 10px; padding: 20px;">
+
+[![Valoriza Snake Animation](https://github.com/valoriza-imobiliaria/snk/raw/output/github-contribution-grid-snake.gif?color_snake=%230077B6&color_dots=%23003f88%2C%230056b3%2C%230077B6%2C%230088cc%2C%2300a0e9&text=Juntos+somamos%2C+em+sinergia+conquistamos+Valoriza+Imobili%C3%A1ria)](https://github.com/valoriza-imobiliaria/snk)
 
 </div>
-
-<div align="center"> <img src="https://user-images.githubusercontent.com/56985266/189548039-8e1b7a5a-78b8-4f1f-8e6e-1e6a3b5e0731.gif" width="80%" style="border-radius: 10px; border: 2px solid #0077B6;"> </div>
-</p>
-
 ---
 
 <p align="center">
