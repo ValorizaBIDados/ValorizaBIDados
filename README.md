@@ -168,21 +168,15 @@ graph TD;
 
 </div>
 -------------------
-## 🐍 Snake Game de Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" />
-</picture>
+## 🐍 Snake Game de Contribuições test
+
+🎯 A jornada diária da nossa stack refletida em forma de jogo.  
+💡 Cada passo representa um projeto, uma entrega, uma solução.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" alt="Snake Game Valoriza" style="max-width: 100%; background: linear-gradient(to right, #0077B6, #003f88); border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.gif" alt="Snake Game Valoriza - GIF" />
 </p>
 
-<div align="center">
-  🎯 A jornada diária da nossa stack refletida em forma de jogo.  
-  💡 Cada passo representa um projeto, uma entrega, uma solução.
-</div>
 
 ---------------------
 <p align="center">
