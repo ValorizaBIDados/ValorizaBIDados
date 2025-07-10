@@ -154,17 +154,25 @@ graph TD;
 
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
-
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA">
-  <img alt="Valoriza Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA" width="100%" style="max-width: 800px;">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA">
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA">
+
+  <img alt="Valoriza Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA" width="100%" style="max-width: 800px; border-radius: 10px;" />
 </picture>
 
-<p style="color: #58a6ff; font-size: 1.1em; margin-top: 15px;"> 🎯 A jornada diária da nossa stack refletida em forma de jogo<br/> 💡 Cada passo representa um projeto, uma entrega, uma solução </p></div>
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.gif?color_snake=%25230077B6&color_dots=%2523001C55%252C%2523003f88%252C%25230056b3%252C%25230077B6%252C%252300a0e9&text=JUNTOS+SOMAMOS%250AEM+SINERGIA+CONQUISTAMOS%250AVALORIZA+IMOBILIARIA
+<p style="color: #58a6ff; font-size: 1.1em; margin-top: 15px;">
+🎯 A jornada diária da nossa stack refletida em forma de jogo.<br/>
+💡 Cada passo representa um projeto, uma entrega, uma solução.
+</p>
+</div>
 
-</div> ```
+<div
+ align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.gif?color_snake=%230077B6&color_dots=%23001C55%2C%23003f88%2C%230056b3%2C%230077B6%2C%2300a0e9&text=JUNTOS+SOMAMOS%0AEM+SINERGIA+CONQUISTAMOS%0AVALORIZA+IMOBILIARIA" alt="Valoriza Snake GIF" width="100%" style="max-width: 800px; border-radius: 10px;" />
+</div>
+ ```
 
 
 
