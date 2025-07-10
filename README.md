@@ -150,13 +150,17 @@ graph TD;
 
 ---
 
-## 🐍 Contribuições Visuais
+## 🐍 Snake Game de Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaymmi/kaymmi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaymmi/kaymmi/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/kaymmi/kaymmi/output/github-snake.svg" />
-</picture>
+<div align="center">
+
+🎯 A jornada diária da nossa stack refletida em forma de jogo.
+
+📈 Cada passo representa um projeto, uma entrega, uma solução.
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="background: linear-gradient(to right, #0077B6, #003f88); border-radius: 10px; padding: 10px;" />
+
+</div>
 
 ---
 
