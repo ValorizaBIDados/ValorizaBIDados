@@ -169,6 +169,11 @@ graph TD;
 </div>
 -------------------
 ## 🐍 Snake Game de Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ValorizaBIDados/ValorizaBIDados/output/github-snake.svg" alt="Snake Game Valoriza" style="max-width: 100%; background: linear-gradient(to right, #0077B6, #003f88); border-radius: 10px;" />
